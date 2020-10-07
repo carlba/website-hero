@@ -16,8 +16,12 @@ body {
   font-family: sans-serif;
 }
 nav {
-  margin: 10px;
   display: flex;
+  justify-content: flex-start;
+}
+
+nav > img {
+  padding: 10px;
 }
 
 .hero {
