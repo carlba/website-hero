@@ -1,10 +1,11 @@
-# HTML and CSS Template
-Template for new Websites
+# We don't Need Another Hero
+
+Inspired by https://codetheweb.blog/fullscreen-image-hero
 
 ## Usage
 
 ### Clone the epository
 
 ```bash
-git clone https://github.com/carlba/html-and-css-template
+git clone https://github.com/carlba/website-hero
 ```
